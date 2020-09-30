@@ -50,7 +50,7 @@ author_profile: true
 <h2 id="pubs">Publications</h2> -->
   
 
-<div style=font-size:16px>For a full list see DBLP and Google Scholar.</div>
+For a full list see DBLP and Google Scholar.
 <!-- 2020 -->
 <div class="pubyear">2020</div>
 <ul>
