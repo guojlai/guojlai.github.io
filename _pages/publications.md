@@ -1,11 +1,11 @@
 ---
 layout: archive
-; title: "Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<!---
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -34,6 +34,7 @@ author_profile: true
 	}
         li{
 	        margin-top: 10px;
+	        font-size: 15px;
 	}
 	.subcontent {
 		margin-top: 1em;
@@ -44,9 +45,9 @@ author_profile: true
 {% include base_path %}
 		
 		
-<!-- Publication section -->
+<!-- Publication section 
 <div class="subcontent">
-<h2 id="pubs">Publications</h2>
+<h2 id="pubs">Publications</h2> -->
   
   
 <!-- 2020 -->
