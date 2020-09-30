@@ -30,8 +30,8 @@ author_profile: true
 <h2 id="pubs">Publications</h2> -->
   
 <body>
-For a full list see DBLP and Google Scholarb.
-<!-- 2020 -->
+For a full list see <a href="https://dblp.dagstuhl.de/pid/237/8079-1.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=MZK1ThsAAAAJ&hl=en">Google Scholar</a>.
+<!-- 2019 -->
 	<style type="text/css">
         #email {
 	        font-family: Consolas,"Courier New",monospace;
@@ -57,7 +57,7 @@ For a full list see DBLP and Google Scholarb.
   	</style>
 <div class="pubyear">2020</div>
 <ul>
-	<li _p>Matthias Boehm, Iulian Antonov, Sebastian Baunsgaard, Mark Dokter, Robert Ginth&ouml;r, Kevin Innerebner, Florijan Klezin, Stefanie Lindstaedt, Arnab Phani, Benjamin Rath, Berthold Reinwald, Shafaq Siddiqi, Sebastian Benjamin Wrede: SystemDS: A Declarative Machine Learning System for the End-to-End Data Science Lifecycle <b>CIDR 2020</b>. [<a href="resources/cidr2020.pdf">paper, <a href="resources/cidr2020_talk.pptx">slides</a></a>]</li>
+	<li _p>Xixian Han, Xianmin Liu, Jian Chen, <b>Guojun Lai</b>, Hong Gao, Jianzhong Li: Efficiently mining frequent itemsets on massive data. <i>IEEE Access, 2019.</i><br> [<a href="resources/cidr2020.pdf">paper, <a href="resources/cidr2020_talk.pptx">slides</a></a>]</li _p>
 </ul>
 					
 </body>
