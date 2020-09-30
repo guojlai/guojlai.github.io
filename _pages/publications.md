@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -60,6 +59,8 @@ For a full list see <a href="https://dblp.dagstuhl.de/pid/237/8079-1.html">DBLP<
 <ul>
 	<li _p>Xixian Han, Xianmin Liu, Jian Chen, <b>Guojun Lai</b>, Hong Gao, Jianzhong Li: Efficiently mining frequent itemsets on massive data. <i>IEEE Access, 2019.</i>
 	[<a href="resources/cidr2020.pdf">paper, <a href="https://ieeexplore.ieee.org/document/8657696">link</a></a>]</li>
+	<li _p>Xixian Han, Bailing Wang, <b>Guojun Lai</b>: Dynamic skyline computation on massive data. <i>Knowledge and Information Systems, 2019.</i>
+	[<a href="resources/cidr2020.pdf">paper, <a href="https://link.springer.com/article/10.1007/s10115-018-1193-y">link</a></a>]</li>
 </ul>
 					
 </body>
