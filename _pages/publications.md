@@ -47,7 +47,7 @@ For a full list see DBLP and Google Scholar.
  		font-size: 1.2em;
  		font-weight: bold;
 	}
-        li{
+        li[_p]{
 	        margin-top: 10px;
 	        font-size: 16px;
 	}
@@ -58,7 +58,7 @@ For a full list see DBLP and Google Scholar.
   	</style>
 <div class="pubyear">2020</div>
 <ul>
-	<li>Matthias Boehm, Iulian Antonov, Sebastian Baunsgaard, Mark Dokter, Robert Ginth&ouml;r, Kevin Innerebner, Florijan Klezin, Stefanie Lindstaedt, Arnab Phani, Benjamin Rath, Berthold Reinwald, Shafaq Siddiqi, Sebastian Benjamin Wrede: SystemDS: A Declarative Machine Learning System for the End-to-End Data Science Lifecycle <b>CIDR 2020</b>. [<a href="resources/cidr2020.pdf">paper, <a href="resources/cidr2020_talk.pptx">slides</a></a>]</li>
+	<li _p>Matthias Boehm, Iulian Antonov, Sebastian Baunsgaard, Mark Dokter, Robert Ginth&ouml;r, Kevin Innerebner, Florijan Klezin, Stefanie Lindstaedt, Arnab Phani, Benjamin Rath, Berthold Reinwald, Shafaq Siddiqi, Sebastian Benjamin Wrede: SystemDS: A Declarative Machine Learning System for the End-to-End Data Science Lifecycle <b>CIDR 2020</b>. [<a href="resources/cidr2020.pdf">paper, <a href="resources/cidr2020_talk.pptx">slides</a></a>]</li>
 </ul>
 					
 </body>
