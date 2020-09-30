@@ -1,5 +1,5 @@
 ---
-;layout: archive
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -30,7 +30,7 @@ author_profile: true
 <h2 id="pubs">Publications</h2> -->
   
 <body>
-For a full list see <a href="https://dblp.dagstuhl.de/pid/237/8079-1.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=MZK1ThsAAAAJ&hl=en">Google Scholar</a>.
+aFor a full list see [DBLP](https://dblp.dagstuhl.de/pid/237/8079-1.html) and <a href="https://scholar.google.com/citations?user=MZK1ThsAAAAJ&hl=en">Google Scholar</a>.
 <!-- 2019 -->
 	<style type="text/css">
         #email {
