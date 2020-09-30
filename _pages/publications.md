@@ -10,8 +10,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+<!--
 {% include base_path %}
 
+<!--
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
@@ -49,7 +51,7 @@ author_profile: true
 <div class="subcontent">
 <h2 id="pubs">Publications</h2> -->
   
-
+<body>
 For a full list see DBLP and Google Scholar.
 <!-- 2020 -->
 <div class="pubyear">2020</div>
@@ -65,3 +67,4 @@ For a full list see DBLP and Google Scholar.
 						<li>Matthias Boehm, Arun Kumar, Jun Yang: Data Management in Machine Learning Systems. Synthesis Lectures on Data Management 11 (1), <b>Morgan & Claypool Publishers 2019</b>. [<a href="https://www.morganclaypool.com/doi/10.2200/S00895ED1V01Y201901DTM057">book</a>]</li>
 						<li>Matthias Boehm, Alexandre V. Evfimievski, Berthold Reinwald: Efficient Data-Parallel Cumulative Aggregates for Large-Scale Machine Learning. <b>BTW 2019</b>. [<a href="resources/btw2019.pdf">paper</a>, <a href="resources/btw2019_talk.pptx">slides</a>]</li>
 					</ul>
+</body>
