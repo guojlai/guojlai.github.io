@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications" <font size=17px>一号字尺寸式样 </font>
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -49,7 +49,8 @@ author_profile: true
 <div class="subcontent">
 <h2 id="pubs">Publications</h2> -->
   
-  
+
+<font size=20px>For a full list see DBLP and Google Scholar.</font>
 <!-- 2020 -->
 <div class="pubyear">2020</div>
 <ul>
