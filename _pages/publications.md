@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications" <font size=17px>一号字尺寸式样 </font>
 permalink: /publications/
 author_profile: true
 ---
@@ -34,7 +34,7 @@ author_profile: true
 	}
         li{
 	        margin-top: 10px;
-	        font-size: 15px;
+	        font-size: 20px;
 	}
 	.subcontent {
 		margin-top: 1em;
