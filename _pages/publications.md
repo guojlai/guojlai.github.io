@@ -19,7 +19,7 @@ author_profile: true
 {% endfor %}
 -->
 
-
+<div>
 <style type="text/css">
         #email {
 	        font-family: Consolas,"Courier New",monospace;
@@ -68,3 +68,4 @@ For a full list see DBLP and Google Scholar.
 						<li>Matthias Boehm, Alexandre V. Evfimievski, Berthold Reinwald: Efficient Data-Parallel Cumulative Aggregates for Large-Scale Machine Learning. <b>BTW 2019</b>. [<a href="resources/btw2019.pdf">paper</a>, <a href="resources/btw2019_talk.pptx">slides</a>]</li>
 					</ul>
 </body>
+</div>
