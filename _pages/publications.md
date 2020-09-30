@@ -20,11 +20,19 @@ author_profile: true
 -->
 
 
-sdsdsd
+a
 		
 {% include base_path %}
 		
 <div>
+	
+<!-- Publication section 
+<div class="subcontent">
+<h2 id="pubs">Publications</h2> -->
+  
+<body>
+For a full list see DBLP and Google Scholar.
+<!-- 2020 -->
 	<style type="text/css">
         #email {
 	        font-family: Consolas,"Courier New",monospace;
@@ -48,13 +56,6 @@ sdsdsd
 		margin-bottom: 1.5em;
 	}
   	</style>
-<!-- Publication section 
-<div class="subcontent">
-<h2 id="pubs">Publications</h2> -->
-  
-<body>
-For a full list see DBLP and Google Scholar.
-<!-- 2020 -->
 <div class="pubyear">2020</div>
 <ul>
 	<li>Matthias Boehm, Iulian Antonov, Sebastian Baunsgaard, Mark Dokter, Robert Ginth&ouml;r, Kevin Innerebner, Florijan Klezin, Stefanie Lindstaedt, Arnab Phani, Benjamin Rath, Berthold Reinwald, Shafaq Siddiqi, Sebastian Benjamin Wrede: SystemDS: A Declarative Machine Learning System for the End-to-End Data Science Lifecycle <b>CIDR 2020</b>. [<a href="resources/cidr2020.pdf">paper, <a href="resources/cidr2020_talk.pptx">slides</a></a>]</li>
