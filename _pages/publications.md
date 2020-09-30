@@ -57,8 +57,8 @@ For a full list see <a href="https://dblp.dagstuhl.de/pid/237/8079-1.html">DBLP<
   	</style>
 <div class="pubyear">2020</div>
 <ul>
-	<li _p>Xixian Han, Xianmin Liu, Jian Chen, <b>Guojun Lai</b>, Hong Gao, Jianzhong Li: Efficiently mining frequent itemsets on massive data. <i>IEEE Access, 2019.</i><br>
-	[<a href="resources/cidr2020.pdf">paper, <a href="https://ieeexplore.ieee.org/document/8657696">link</a></a>]</li _p>
+	<li _p>Xixian Han, Xianmin Liu, Jian Chen, <b>Guojun Lai</b>, Hong Gao, Jianzhong Li: Efficiently mining frequent itemsets on massive data. <i>IEEE Access, 2019.</i>
+	[<a href="resources/cidr2020.pdf">paper, <a href="https://ieeexplore.ieee.org/document/8657696">link</a></a>]</li>
 </ul>
 					
 </body>
