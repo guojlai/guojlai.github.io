@@ -20,7 +20,6 @@ author_profile: true
 -->
 
 
-a
 		
 {% include base_path %}
 		
@@ -31,7 +30,7 @@ a
 <h2 id="pubs">Publications</h2> -->
   
 <body>
-For a full list see DBLP and Google Scholar.
+For a full list see DBLP and Google Scholarb.
 <!-- 2020 -->
 	<style type="text/css">
         #email {
