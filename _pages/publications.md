@@ -33,6 +33,7 @@ author_profile: true
 For a full list see <a href="https://dblp.dagstuhl.de/pid/237/8079-1.html">DBLP</a> and <a href="https://scholar.google.com/citations?user=MZK1ThsAAAAJ&hl=en">Google Scholar</a>.
 <!-- 2019 -->
 	<style type="text/css">
+	a{text-decoration: none;}
         #email {
 	        font-family: Consolas,"Courier New",monospace;
 	}
