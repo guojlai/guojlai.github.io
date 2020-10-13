@@ -86,7 +86,7 @@ author:
   location         : "Austria"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=MZK1ThsAAAAJ&hl=en"
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.dagstuhl.de/pid/237/8079-1.html"
 
 # Reading Files
 include:
